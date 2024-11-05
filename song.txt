@@ -1,2 +1,4 @@
 sword and spear
 wall of shields
+добавляю код или
+слова, в общем изменяю этот файл
